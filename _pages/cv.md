@@ -72,7 +72,7 @@ Selected Course Performance
 
 ### Fundamentals of Computer Graphics (A)
 * Implemented a C++ physically-based CPU renderer
-* Project repo: https://github.com/JamesZFS/Pharosa
+* [Project repo](https://github.com/JamesZFS/Pharosa)
 * Highlighted features:
   - Incorporates a vector/matrix math library without external library support
   - Supports the path tracing and the **stochastic progressive photon mapping** global illumination algorithm
@@ -81,7 +81,7 @@ Selected Course Performance
 
 ### Human-Computer Interaction Theory and Technology (A-)
 * Proposed and researched on a mobile phone camera interaction app - *IntelliZoomer*
-* Project repo: https://github.com/JamesZFS/IntelliZoomer
+* [Project repo](https://github.com/JamesZFS/IntelliZoomer)
 * Leader of a three-student group
 * Core features:
   - Exploits the distance information from front camera to adjust the back camera's zoom ratio
@@ -92,7 +92,7 @@ Selected Course Performance
 
 ### Service Oriented Software Design and Development (A+)
 * Designed and implemented an intelligent COVID-19 data visualizing & analyzing system - *AntiNCP*
-* Our website: http://129.204.207.38/#/
+* [Our website](http://129.204.207.38/#)
 * In charge of backend construction, algorithm integration, operation & maintenance and UI framework design
 * Highlighted features:
   - Collects pandemic data and news articles automatically and periodically
@@ -103,14 +103,14 @@ Selected Course Performance
 ### Software Engineering (A)
 * Implemented an online live teaching platform for Jisuanke Company
 * Made core contribution in the group and impressed the clients
-* Project repo: https://github.com/JamesZFS/AwesomeCoding
+* [Project repo](https://github.com/JamesZFS/AwesomeCoding)
 * Became one of the **teaching assistants** of this course in the second year
   - Helped my peer students learn the essence of software developing principles (git cooperation, code style, etc.)
   - Guided 5 groups on developing a cloud resource computing and task execution platform
 
 ### Computer Organization (A-)
 * Designed a MIPS32 CPU in Verilog with 2 other students
-* Project repo: https://github.com/JamesZFS/MIPS-CPUer
+* [Project repo](https://github.com/JamesZFS/MIPS-CPUer)
 * Highlighted features:
   - Supports around 30 kinds of basic and interruptive MIPS32 instructions
   - Supports several peripherals including DVI video output and flash storage
@@ -118,13 +118,13 @@ Selected Course Performance
 
 ### Principles and Practice of Compiler Construction (A)
 * Enhanced a decaf language compiler implemented in Rust
-* Project repo: https://github.com/JamesZFS/Decaf
+* [Project repo](https://github.com/JamesZFS/Decaf)
 * Added **functional programming** features to the basic decaf grammar (such as lambda expressions and first-class functions)
 * Added some compiling optimization actions along with an implementation of a renowned iterative global register allocation algorithm
 
 ### Foundation of Object-Oriented Programming (A)
 * Designed and implemented two **physically-based** 2D games
-* Project repo: https://github.com/JamesZFS/Warzone  https://github.com/JamesZFS/Plongeur
+* [Project 1 repo](https://github.com/JamesZFS/Warzone), [Project 2 repo](https://github.com/JamesZFS/Plongeur)
 * Based on Qt and Google’s LiquidFun physics library
 
 Skills
