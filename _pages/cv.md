@@ -20,10 +20,10 @@ Undergraduate at Tsinghua University(THU), Beijing, China
 
 SCHOLARSHIP & AWARDS
 ======
-* National Award by THU, 10/2020
-* Comprehensive Excellence Award by Computer Science and Technology Department, THU, 10/2019
-*	Academic Excellence Award by Physics Department, THU, 10/2018 
-* Comprehensive Excellence Award by Physics Department, THU, 10/2017
+* China National Scholarship, 10/2020
+* Comprehensive Excellence Scholarship by Computer Science and Technology Department, THU, 10/2019
+*	Academic Excellence Scholarship by Physics Department, THU, 10/2018 
+* Comprehensive Excellence Scholarship by Physics Department, THU, 10/2017
 * National Silver Prize, National Olympiad in Physics, 2015
 * Provincial Second Prize, National Olympiad in Informatics, 2014
 
@@ -49,7 +49,7 @@ Research Experience
 ======
 
 ### Graphics and Geometric Computing Group, THU
-* Advised by Prof. Kun Xu, 10/2019 - Present
+* Advised by [Prof. Kun Xu](https://cg.cs.tsinghua.edu.cn/people/~kun/), 10/2019 - Present
 * Commercial project for Alibaba: enhancement to a renderer based on NVIDIA’s Optix library
   - Added useful features like accepting/casting shadows, primary visibility to the renderer
   - Parsed camera and scene geometric information from FBX files
@@ -59,7 +59,7 @@ Research Experience
   - Did in-depth research and found a variant of conjugate gradient algorithm to solve the problem efficiently and effectively
 
 ### Pervasive Human-Computer Interaction Group, THU
-* Advised by Prof. Chun Yu, 01/2019 - 05/2019
+* Advised by [Prof. Chun Yu](http://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/), 01/2019 - 05/2019
 * Published *ProxiTalk: Activate Speech Input by Bringing Smartphone to the Mouth* to IMWUT 2019
 * Main duties:
   - Second student author
