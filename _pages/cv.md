@@ -21,10 +21,9 @@ Undergraduate at Tsinghua University(THU), Beijing, China
 
 SCHOLARSHIP & AWARDS
 ======
-* China National Scholarship, 10/2020
-* Comprehensive Excellence Scholarship by Computer Science and Technology Department, THU, 10/2019
-*	Academic Excellence Scholarship by Physics Department, THU, 10/2018 
-* Comprehensive Excellence Scholarship by Physics Department, THU, 10/2017
+* China National Scholarship (Top 1%), 10/2020
+* Comprehensive Excellence Scholarship (Top 7%) at Computer Science and Technology Department, THU, 10/2019
+* Comprehensive Excellence Scholarship (Top 10%) at Physics Department, THU, 10/2017
 * National Silver Prize, National Olympiad in Physics, 2015
 * Provincial Second Prize, National Olympiad in Informatics, 2014
 
@@ -79,6 +78,7 @@ Selected Course Performance
   - Supports the path tracing and the **stochastic progressive photon mapping** global illumination algorithm
   - Supports the KD tree scene acceleration structure and complex triangle mesh scene files
   - A flexible and extensible system strictly following object oriented principles
+![Pharosa demo](/images/cg-course-1.png)
 
 ### Human-Computer Interaction Theory and Technology (A-)
 * Proposed and researched on a mobile phone camera interaction app - *IntelliZoomer*
@@ -90,6 +90,7 @@ Selected Course Performance
   - Integrates iPhone 11's state-of-the-art multi-camera session and vision techniques
 * Conducted a 14-user evaluation experiment and proved our proposed app's advantages over current camera apps.
 * Enrolled in the most prestige science & innovation competition in THU - "**The Challenge Cup**" - and won the third prize
+![HCI demo](/images/hci-project.png)
 
 ### Service Oriented Software Design and Development (A+)
 * Designed and implemented an intelligent COVID-19 data visualizing & analyzing system - *AntiNCP*
@@ -100,6 +101,7 @@ Selected Course Performance
   - Extract trend words and topics from articles using Tf·Idf model and clustering algorithms
 * Achieved the **highest completion** among all groups in the course
 * Served **more than 6,000 users** till now
+![SOA demo](/images/soa-project.png)
 
 ### Software Engineering (A)
 * Implemented an online live teaching platform for Jisuanke Company
@@ -141,3 +143,5 @@ Skills
 * Hobbies & others
   - Swimming, fitness, diving, skiing
   - Saxophone, piano, chorus, a cappella, musical
+
+![skiing](/images/skiing.jpg)
