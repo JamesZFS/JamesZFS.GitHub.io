@@ -134,7 +134,7 @@ Skills
   - Familiar with Go, Rust, MySQL, Swift, C#, Assembly, Mathematica, Unity
 * Language skills
   - Mother tongue: Chinese
-  - TOEFL xxx
+  - TOEFL 105 (reading 28, listening 27, speaking 24, writing 26)
   - GRE Verbal 156, Quantitative169, AW 4.0
   - A little French
 * Hobbies & others
