@@ -1,6 +1,6 @@
 ---
 title: "Taiwan"
-excerpt: "2019 Summer course in Taiwan<br/><img src='/images/keelung-taiwan.jpeg'>"
+excerpt: "2019 Summer course in Taiwan<br/><img src='/images/taiwan/keelung.jpeg'>"
 collection: portfolio
 ---
 
@@ -8,6 +8,7 @@ collection: portfolio
 
 Taipei
 ![Taipei1](/images/taiwan/taipei1.jpeg)
+
 ![Taipei2](/images/taiwan/taipei2.jpeg)
 
 Keelung
