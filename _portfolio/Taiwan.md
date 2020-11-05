@@ -4,7 +4,7 @@ excerpt: "2019 Summer course in Taiwan<br/><img src='/images/taiwan/keelung.jpeg
 collection: portfolio
 ---
 
-2019 Summer course in Taiwan. We toured Taipei, Hsinchu, Keelung, Taichung, Tainan, etc. in our leisure time.
+2019 Summer course in Taiwan. We toured Taipei, Hsinchu, Keelung, Taichung, Tainan, etc. in our leisure time, in July and August.
 
 Taipei
 ![Taipei1](/images/taiwan/taipei1.jpeg)
