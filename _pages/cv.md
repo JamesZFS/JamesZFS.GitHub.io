@@ -16,10 +16,10 @@ Undergraduate at Tsinghua University(THU), Beijing, China
 * Majored in Physics Department, 2016 - 2018
 * Changed major into Computer Science and Technology Department, 2018 - 2021
 * Expected to graduate in July, 2021
-* Major GPA:   **3.91**  Rank: **2**/225
-* Overall GPA: **3.89**  Rank: **4**/225
+* Major GPA:   **3.91**  Rank: **2**/204
+* Overall GPA: **3.89**  Rank: **4**/204
 
-SCHOLARSHIP & AWARDS
+Scholarship & Awards
 ======
 * China National Scholarship (Top 1%), 10/2020
 * Comprehensive Excellence Scholarship (Top 7%) at Computer Science and Technology Department, THU, 10/2019
@@ -35,7 +35,7 @@ Publications
   
 Internship Experience
 ======
-### Graphics Programmer at Bytedance, Summer 2019
+### Graphics Programmer at Bytedance, Summer 2020
 * Product RD and Infrastructure, Bytedance Game Department
 * Implemented a mobile-phone next-generation water/pool graphics effect solution based on the Unity Engine independently
 * Features: 
