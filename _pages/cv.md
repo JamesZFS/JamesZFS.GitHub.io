@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Here's a pdf version of my [CV](xxx)
+Here's a pdf version of my [CV](/files/cv.pdf)
 
 Education
 ======
@@ -64,7 +64,7 @@ Research Experience
 * Main duties:
   - Second student author
   - Handled part of the image/voice data processing and analyzing work
-  - Tackle the gesture recognition problem with neural and tradition machine learning methods
+  - Tackled the gesture recognition problem with neural and tradition machine learning methods
   - Conducted a 20-user data collecting experiment and a 60-user evaluation experiment
 
 Selected Course Performance
@@ -87,7 +87,7 @@ Selected Course Performance
   - Exploits the distance information from front camera to adjust the back camera's zoom ratio
   - Detects the smiling gesture of the user to trigger "capture"
   - Integrates iPhone 11's state-of-the-art multi-camera session and vision techniques
-* Conducted a 14-user evaluation experiment and proved our proposed app's advantages over current camera apps.
+* Conducted a 14-user evaluation experiment and proved our proposed app's advantages over current camera apps
 * Enrolled in the most prestige science & innovation competition in THU - "**The Challenge Cup**" - and won the third prize
 
 ### Service Oriented Software Design and Development (A+)
