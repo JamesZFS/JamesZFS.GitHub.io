@@ -1,6 +1,6 @@
 ---
 title: "Europe"
-excerpt: "Some travel photos 2021-2023<br/><img src='/images/europe/florence1.jpeg'>"
+excerpt: "Some travel photos 2021-2024<br/><img src='/images/europe/florence1.jpeg'>"
 collection: portfolio
 date: 2024-01-01
 ---
@@ -42,6 +42,22 @@ Creux du Van, Switzerland, October 2023
 
 Zermatt, Switzerland, November 2023
 ![Zermatt](/images/europe/zermatt.jpeg)
+
+
+Urnersee, Switzerland, July 2024
+![Urnersee](/images/europe/urnersee.jpeg)
+
+
+Oberwald, Switzerland, July 2024
+![Oberwald](/images/europe/oberwald.jpeg)
+
+
+Antibes, France, August 2024
+![Antibes](/images/europe/antibes.jpeg)
+
+
+Amsterdam, Netherlands, August 2024
+![Amsterdam](/images/europe/amsterdam.jpeg)
 
 
 My journey continues...
