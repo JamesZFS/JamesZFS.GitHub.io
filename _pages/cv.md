@@ -15,20 +15,21 @@ Here's a pdf version of my [CV](/files/cv.pdf)
 # Education
 
 ### Master of Computer Science at ETH Zurich, Switzerland
-- Sep. 2021 - Jul. 2024 (expected)
+- Sep. 2021 - Jul. 2024
 - Major in visual computing
-- **GPA: 5.8/6.0**
+- Minor in machine intelligence
+- GPA: 5.78/6.0
 
 ### Bachelor of Computer Science in  at Tsinghua University, Beijing, China
 - Majored in Physics, Sep. 2016 - Jul. 2018
 - Changed major into Computer Science and Technology, Sep. 2018 - Jul. 2021
-- **GPA: 3.89,  Rank: 4/204**
+- GPA: 3.89/4.0
 
 -----
 
 # Scholarship & Awards
 
-- **China National Scholarship** (Top 1%), Oct. 2020
+- China National Scholarship (Top 1%), Oct. 2020
 - Comprehensive Excellence Scholarship (Top 10%) at Computer Science and Technology Department, Tsinghua, Oct. 2019
 - Comprehensive Excellence Scholarship (Top 10%) at Physics Department, Tsinghua, Oct. 2017
 - Third prize in The Challenge Cup (science and innovation competition) of Tsinghua, Oct. 2020
@@ -40,11 +41,11 @@ Here's a pdf version of my [CV](/files/cv.pdf)
 # Research Experience
 
 ### [Computer Graphics Laboratory](https://cgl.ethz.ch/), ETH, Zurich, Switzerland
-- Master thesis, Dec. 2023 - Jul. 2024 (expected)
+- Master thesis, Dec. 2023 - Jul. 2024
 - Research on spatial subdivision for path guiding.
 
 ### Rendering Group, [Disney Research Studios](https://studios.disneyresearch.com/about-us/), Zurich, Switzerland
-- Semester thesis (6.0/6.0), Apr. 2023 - Jul. 2023
+- Semester thesis, Apr. 2023 - Jul. 2023
 - Research on improving the path sampling for realistic image synthesis using machine learning methods.
 
 ### [Realistic Graphics Lab](https://rgl.epfl.ch/), EPFL, Lausanne, Switzerland
@@ -80,7 +81,7 @@ Here's a pdf version of my [CV](/files/cv.pdf)
 
 ## Master Courses, ETH Zurich
 
-### [Computer Graphics](/cg/index.html) (6.0/6.0)
+### [Computer Graphics](/cg/index.html)
 
 ![cg](/images/projects/cg.png)
 
@@ -101,7 +102,7 @@ Here's a pdf version of my [CV](/files/cv.pdf)
 
 <br>
 
-### [Physics-based Simulation](https://github.com/Fiona730/Position-Based-Fluids-Taichi) (5.75/6.0)
+### [Physics-based Simulation](https://github.com/Fiona730/Position-Based-Fluids-Taichi)
 
 ![pbs](/images/projects/pbs.png)
 
@@ -110,7 +111,7 @@ Here's a pdf version of my [CV](/files/cv.pdf)
 
 <br>
 
-### [Advanced Systems Lab](https://github.com/Fiona730/SPPM-CPU-Optimization?tab=readme-ov-file) (5.75/6.0)
+### [Advanced Systems Lab](https://github.com/Fiona730/SPPM-CPU-Optimization?tab=readme-ov-file)
 
 ![asl](/images/projects/asl.png)
 
@@ -121,7 +122,7 @@ Here's a pdf version of my [CV](/files/cv.pdf)
 
 ## Bachelor Courses, Tsinghua University
 
-### [Service Oriented Software Design and Development](https://github.com/JamesZFS/AntiNCP) (A+)
+### [Service Oriented Software Design and Development](https://github.com/JamesZFS/AntiNCP)
 
 ![soa](/images/projects/soa.png)
 
@@ -132,7 +133,7 @@ Here's a pdf version of my [CV](/files/cv.pdf)
 
 <br>
 
-### [Fundamentals of Computer Graphics](https://github.com/JamesZFS/Pharosa) (A)
+### [Fundamentals of Computer Graphics](https://github.com/JamesZFS/Pharosa)
 
 ![cg](/images/projects/cg-thu.png)
 
@@ -144,7 +145,7 @@ Here's a pdf version of my [CV](/files/cv.pdf)
 
 <br>
 
-### [Fundamentals of Search Engine Technology](https://github.com/JamesZFS/ElasticJury) (A)
+### [Fundamentals of Search Engine Technology](https://github.com/JamesZFS/ElasticJury)
 
 ![search](/images/projects/search.png)
 
@@ -153,31 +154,31 @@ Here's a pdf version of my [CV](/files/cv.pdf)
 - Create dedicated MySQL commands to do fast and complex search queries.
 - Design and implement an intuitive and user-friendly frontend.
 
-### [Human-Computer Interaction Theory and Technology](https://github.com/JamesZFS/IntelliZoomer) (A-)
+### [Human-Computer Interaction Theory and Technology](https://github.com/JamesZFS/IntelliZoomer)
 - Propose and research on a mobile phone camera interaction app
 - Core features:
   - Adjust the back camera's zoom ratio with the front camera's depth information.
   - Auto "capture" triggering by smile detection.
 - Conduct a 14-user evaluation experiment and prove the effectiveness of our proposed app.
 
-### [Computer Organization](https://github.com/JamesZFS/MIPS-CPUer) (A-)
+### [Computer Organization](https://github.com/JamesZFS/MIPS-CPUer)
 - Design and implement a MIPS32 CPU in Verilog.
 - Highlighted features:
   - Capable of running a tutorial operating system.
   - Support several peripherals including DVI video output and flash storage.
   - A fixed-point numerical system and a three-body problem simulation demo in MIPS assembly.
 
-### [Principles and Practice of Compiler Construction](https://github.com/JamesZFS/Decaf) (A)
+### [Principles and Practice of Compiler Construction](https://github.com/JamesZFS/Decaf)
 - Enhance a Java-like language compiler implemented in Rust.
 - Add functional programming features including lambda expressions and first-class functions.
 - Implement some compiling optimization actions and an [iterative global register allocation algorithm](http://www.cse.iitm.ac.in/~krishna/cs6013/george.pdf).
 
-### [Software Engineering](https://github.com/JamesZFS/AwesomeCoding) (A)
+### [Software Engineering](https://github.com/JamesZFS/AwesomeCoding)
 - Develop a web-based live teaching platform for [Jisuanke Company](https://www.jisuanke.com/).
 
 <br>
 
-### Foundation of Object-Oriented Programming (A)
+### Foundation of Object-Oriented Programming
 
 ![oop](/images/projects/oop.png)
 
