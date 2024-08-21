@@ -1,0 +1,18 @@
+---
+layout: archive
+title: "Portfolio"
+permalink: /portfolio/
+author_profile: true
+---
+
+{% include base_path %}
+
+For a portfolio of my work samples, please visit my <a href="/cv/#selected-course-projects">CV page</a>. <br><br>
+
+I enjoy traveling and photography. Here are some of the photos that best represent my travel experiences and daily moments.
+
+
+{% for post in site.portfolio reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
